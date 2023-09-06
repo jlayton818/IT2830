@@ -1,0 +1,23 @@
+body {
+    background-color: yellow;
+    margin: 10px;
+}
+h1{
+    color: hotpink;
+    background-color: chocolate;
+}
+p {
+    background-color: blue;
+    margin: 0px;
+    padding: 10px;
+    border: 5px solid green;
+    width: 720px;
+}
+
+table {
+    width: 750px;
+    border: 1px solid black;
+}
+title {
+    color: red;
+}
